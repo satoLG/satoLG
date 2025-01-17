@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @satoLG
 - 👀 I’m interested in video-games, programming stuff, anime, old animation movies and beautiful music.
-- 🌱 I’m currently learning front-end technologies.
-- 💞️ I’m looking to collaborate on developing a video-game.
 - 📫 How to reach me leonardogsato@gmail.com
 
 <!---
