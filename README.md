@@ -29,10 +29,3 @@ Graphics/Games
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration:unset;">
-  <img height="150vh" align="center" src="https://github-readme-stats.vercel.app/api?username=satolg&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=transparent"/>
-</a> -->
-<a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration:unset;">
-  <img height="150vh" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satolg&langs_count=4&hide_title=true&hide_border=true&theme=transparent&layout=compact"/>
-</a>
